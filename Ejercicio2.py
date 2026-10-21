@@ -8,3 +8,5 @@ print("Mi edad es ", edad)
 print("Mi estatura es ", estatura)
 print("Mi color favorito es ", colorFavorito)
 
+edad = int(input("Ingresa tu edad:"))
+
