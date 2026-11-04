@@ -48,3 +48,5 @@ match opcion:#Aquí inicia el match, que es una validación de caso
         print("¡Hasta luego!")
     case _:
         print("Opción no válida")
+
+print("FInalizado")
