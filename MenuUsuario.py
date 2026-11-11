@@ -5,7 +5,7 @@ codigos = ""
 descripcionProductos = ""
 estadoProductos = ""
 opcion = 0
-
+x=0
 print("Bienvenido al sistema de inventario de productos")
 print("---------MENÚ PRINCIPAL---------")
 print("1. Registrar productos")
